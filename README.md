@@ -46,5 +46,5 @@ Currently a **Big Data Analytics (Data Science)** major (3.93 GPA) attending Flo
 - Microsoft Excel
 
 ## Links
-[My Linkedln Profile](https://www.linkedin.com/in/marie-hasegawa-590456203/)
-[Handshake Profile](https://app.joinhandshake.com/users/13451441)
+- [My Linkedln Profile](https://www.linkedin.com/in/marie-hasegawa-590456203/)
+- [Handshake Profile](https://app.joinhandshake.com/users/13451441)
