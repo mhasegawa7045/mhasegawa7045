@@ -4,7 +4,7 @@
 
 Currently a **Big Data Analytics (Data Science)** major (3.93 GPA) currently attending Florida Polytechnic University. Familiar with cleaning and organizing data for use by technical and non-technical personnel. Advanced understanding of statistical, algebraic, and other analytical techniques. Highly organized, motivated and diligent with significant background in Big Data Analytics.
 
-## Skills 📈
+## Skills 📊
 - Big Data Analytics
 - Data Warehousing
 - Data Mining
@@ -14,14 +14,14 @@ Currently a **Big Data Analytics (Data Science)** major (3.93 GPA) currently att
 - Machine Learning
 
 ## Technical Skills
-### Programming Languages ⌨
+### Programming Languages 🖥
 - R programming
 - Python
 - Unix Bash
 - Java 
 - C/C++
 - HTML
-### Databases 📗
+### Databases 🗃
 - PostgreSQL
 - DynamoDB
 - MongoDB
@@ -29,7 +29,7 @@ Currently a **Big Data Analytics (Data Science)** major (3.93 GPA) currently att
 - Redis
 - NoSQL
 - MySQL
-### Tools 🔧
+### Tools 🧰
 - GitHub
 - Stata
 - Jupyter
