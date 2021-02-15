@@ -8,7 +8,7 @@ Currently a **Big Data Analytics (Data Science)** major (3.93 GPA) attending Flo
 
 [Handshake Profile](https://app.joinhandshake.com/users/13451441)
 
-## Projects 💾
+## Projects 💼
 - [Real Estate Chat Bot Capstone Project (EXP Reality)](https://www.realestatemessengerbot.com/14-days-free41529173)
 - [Course Selection Database System](https://github.com/mhasegawa7045/Course-Selection-Database-System)
 - [Film Story Description Data Mining, Text Mining, and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Mhasegawa)
