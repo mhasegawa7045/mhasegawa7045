@@ -17,7 +17,6 @@ Currently a **Data Science** major (3.93 GPA) attending Florida Polytechnic Univ
 - [Unix Bash Text-Based RPG Personal Project](https://github.com/mhasegawa7045/Cursed_House_Unix_BASH_Text_based_RPG_MHasegawa)
 ## Skills 📊
 - Big Data Analytics
-- Data Warehousing
 - Data Mining
 - Database
 - Cloud Implementation
