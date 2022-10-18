@@ -15,6 +15,7 @@
 
 ## Projects 📝
 - [Real Estate Chat Bot Capstone Project (EXP Reality)](https://www.realestatemessengerbot.com/14-days-free41529173)
+- [Movie's High-Audience Ratings vs High-Profitability: Statistical and Machine Learning Project](https://github.com/mhasegawa7045/Movie-High-Audience-Ratings-vs-High-Profitibility-Statistical-and-Machine-Learning)
 - [Course Selection Database System](https://github.com/mhasegawa7045/Course-Selection-Database-System)
 - [Film Story Description Data Mining, Text Mining, and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Mhasegawa)
 - [IMDB Movie Ratings Bias Data Analysis Project with R Programming](https://github.com/mhasegawa7045/IMDB_Movie_Ratings_Bias_Project_MHasegawa)
@@ -24,8 +25,8 @@
 ## Skills 📊
 - Big Data Analytics
 - Data Mining
-- Data Warehouse
 - Machine Learning
+- Data Warehouse
 - Cloud Implementation
 - Project Management
 
