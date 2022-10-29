@@ -25,7 +25,7 @@
 
 ## Skills 📊
 - Big Data Analytics
-- Data Mining
+- Data Mining and Text Mining
 - Machine Learning
   - Supervised Learning 
   - Unsupervised Learning
