@@ -19,7 +19,7 @@
 - [Film Story Description Machine Learning: Data Mining, Text Mining, and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Machine_Learning)
 - [Nobel Prize Data Warehouse Project](https://github.com/mhasegawa7045/Nobel-Prize-Data-Warehouse-Project)
 - [Course Selection Database System](https://github.com/mhasegawa7045/Course-Selection-Database-System)
-- [IMDB Movie Ratings Bias Data Analysis Project with R Programming](https://github.com/mhasegawa7045/IMDB_Movie_Ratings_Bias_Project_MHasegawa)
+- [IMDB Movie Ratings Bias Data Analysis Project with Supervised Learning](https://github.com/mhasegawa7045/IMDB_Movie_Ratings_Bias_Project_with_Supervised_Learning_MHasegawa)
 - Humorous Survival Guide for COVID AWS Cloud HTML Website with API commands and servers (Privatized - contains personal information)
 - [Unix Bash Text-Based RPG Personal Project](https://github.com/mhasegawa7045/Cursed_House_Unix_BASH_Text_based_RPG_MHasegawa)
 
