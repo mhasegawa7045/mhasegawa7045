@@ -27,6 +27,8 @@
 - Big Data Analytics
 - Data Mining
 - Machine Learning
+  - Supervised Learning 
+  - Unsupervised Learning
 - Data Warehouse
 - Cloud Implementation
 - Project Management
