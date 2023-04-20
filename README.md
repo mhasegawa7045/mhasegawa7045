@@ -38,7 +38,7 @@
 ## Technical Skills
 ### Programming Languages 🖥
 - Expert/Proficient:
-  - R programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
+  - R programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, -NumPy, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
   - Python 
 - Intermediate
   - HTML
