@@ -37,7 +37,7 @@
 
 ## Technical Skills
 ### Programming Languages 🖥
-- R programming (tidyverse, ggplot2, *pandas, *dplyr, ISLR, caret, ggraph, lubridate)
+- R programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
 - Python 
 - Unix Bash
 - Java 
