@@ -54,8 +54,8 @@
   - Azure Cosmos DB
   - DynamoDB
   - MongoDB
-- Novice:
   - NoSQL
+- Novice:
   - Neo4j
   - Redis
   
