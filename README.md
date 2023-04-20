@@ -50,6 +50,7 @@
   - PostgreSQL
   - MySQL
 - Intermediate
+  - Azure Cosmos DB
   - DynamoDB
   - MongoDB
 - Novice:
@@ -64,6 +65,7 @@
 - Jupyter
 - GitHub
 - Microsoft Project
+- Microsoft Azure
 - Stata
 - Microsoft Excel
 - AWS
