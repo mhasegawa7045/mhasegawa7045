@@ -29,6 +29,7 @@
 - Machine Learning
   - Supervised Learning 
   - Unsupervised Learning
+- Statistical Learning
 - Data Warehouse
 - Cloud Implementation
 - Project Management
@@ -36,8 +37,8 @@
 
 ## Technical Skills
 ### Programming Languages 🖥
-- R programming
-- Python
+- R programming (tidyverse, ggplot2, *pandas, *dplyr, ISLR, caret, ggraph, lubridate)
+- Python 
 - Unix Bash
 - Java 
 - C/C++
