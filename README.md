@@ -65,6 +65,6 @@
 - GitHub
 - Microsoft Project
 - Stata
+- Microsoft Excel
 - AWS
 - Anaconda
-- Microsoft Excel
