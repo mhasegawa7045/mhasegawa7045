@@ -51,6 +51,7 @@
   - PostgreSQL
   - MySQL
 - Intermediate
+  - Transact-SQL (T-SQL)
   - Azure Cosmos DB
   - DynamoDB
   - MongoDB
