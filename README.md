@@ -55,10 +55,10 @@
   - DynamoDB
   - MongoDB
 - Novice:
+  - NoSQL
   - Neo4j
   - Redis
-  - NoSQL
-
+  
 ### Tools 🧰🛠
 - Microsoft SQL Server Management Studio
 - Microsoft Visual Studio
