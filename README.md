@@ -40,8 +40,9 @@
 - Expert/Proficient:
   - R programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
   - Python 
-- Intermediate/Novice:
+- Intermediate
   - HTML
+- Novice:
   - Unix Bash
   - Java 
   - C/C++
