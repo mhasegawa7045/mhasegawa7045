@@ -37,25 +37,34 @@
 
 ## Technical Skills
 ### Programming Languages 🖥
-- R programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
-- Python 
-- Unix Bash
-- Java 
-- C/C++
-- HTML
+- Expert/Proficient:
+  - R programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
+  - Python 
+- Intermediate/Novice:
+  - HTML
+  - Unix Bash
+  - Java 
+  - C/C++
 ### Databases 🗃
-- PostgreSQL
-- DynamoDB
-- MongoDB
-- Neo4j
-- Redis
-- NoSQL
-- MySQL
+- Expert/Proficient:
+  - PostgreSQL
+  - MySQL
+- Intermediate
+  - DynamoDB
+  - MongoDB
+- Novice:
+  - Neo4j
+  - Redis
+  - NoSQL
+
 ### Tools 🧰🛠
-- GitHub
-- Stata
+- Microsoft SQL Server Management Studio
+- Microsoft Visual Studio
+- Tableau
 - Jupyter
+- GitHub
+- Microsoft Project
+- Stata
 - AWS
 - Anaconda
-- Microsoft Project
 - Microsoft Excel
