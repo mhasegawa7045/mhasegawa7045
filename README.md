@@ -62,6 +62,8 @@
   
 ### Tools 🧰🛠
 - Microsoft SQL Server Management Studio
+  - SQL Server Analysis Services (SSAS)
+  - SQL Server Integration Services (SSIS)
 - Microsoft Visual Studio
 - Tableau
 - Jupyter
