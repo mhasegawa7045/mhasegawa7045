@@ -67,6 +67,7 @@
 - GitHub
 - Microsoft Project
 - Microsoft Azure
+- Power BI
 - Stata
 - Microsoft Excel
 - AWS
