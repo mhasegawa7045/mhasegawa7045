@@ -21,6 +21,7 @@
 - [Course Selection Database System](https://github.com/mhasegawa7045/Course-Selection-Database-System)
 - [IMDB Movie Ratings Bias Data Analysis Project](https://github.com/mhasegawa7045/IMDB_Movie_Ratings_Bias_Project)
 - Humorous Survival Guide for COVID AWS Cloud HTML Website with API commands and servers (Privatized - contains personal information)
+- Orlando-Kissimmee-Sanford, FL (MSA) Times Series and Forecasting Project
 - [Unix Bash Text-Based RPG Personal Project](https://github.com/mhasegawa7045/Cursed_House_Unix_BASH_Text_based_RPG_MHasegawa)
 
 ## Skills 📊
