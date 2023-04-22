@@ -77,3 +77,4 @@
 - Microsoft Excel
 - AWS
 - Anaconda
+- Unix Bash
