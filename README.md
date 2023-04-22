@@ -30,6 +30,7 @@
   - Supervised Learning 
   - Unsupervised Learning
 - Statistical Learning
+- Time Series and Forecasting
 - Data Warehouse
 - Cloud Implementation
 - Project Management
