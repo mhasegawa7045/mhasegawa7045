@@ -48,7 +48,6 @@ Highly organized, motivated, and diligent with a significant background in **Big
   - ETL Pipelines
   - Data Warehouse Architecture
 - Data Mining and Text Mining
-- Data Pipelines
 - Cloud Implementation
 - Project Management
 - Time Series and Forecasting
