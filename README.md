@@ -2,11 +2,11 @@
 ### Data Science Major with a Background in Big Data Analytics, Machine Learning, and Statistics
 ![Coding Gif](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif)
 
-**Data Science Magna Cum Laude** (3.88 GPA) graduate of Florida Polytechnic University with 1 year of work-experience, and has collaborated in <ins>3 group projects</ins> and built 6 personal projects. 
+**Data Science Magna Cum Laude** (3.88 GPA) graduate of Florida Polytechnic University with <ins>1 year of work-experience</ins>, and has collaborated in <ins>3 group projects</ins> and built <ins>6 personal projects</ins>. 
 
 Experience with *data processing*, *data pipelines*, *ETL pipelines*, and *data visualizations* for use by technical and non-technical personnel. Advanced understanding of statistical, algebraic, and other analytical techniques. 
 
-Highly organized, motivated, and diligent programmer with a significant background in **Big Data Analytics**, **Machine Learning**, **Statistical Learning**, **Data Warehouse**, **Data Mining & Text Mining**, **Cloud Implementation**, and **Project Management**.
+Highly organized, motivated, and diligent with a significant background in **Big Data Analytics**, **Machine Learning**, **Statistical Learning**, **Data Warehouse**, **Data Mining & Text Mining**, **Cloud Implementation**, and **Project Management**.
 
 ### Links 👩‍💼
 [My Linkedln Profile](https://www.linkedin.com/in/marie-hasegawa-590456203/)
@@ -57,42 +57,39 @@ Highly organized, motivated, and diligent programmer with a significant backgrou
 
 ## Technical Skills
 ### Programming Languages 🖥
-- Expert/Proficient:
-  - R Programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, -NumPy, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
-  - Python 
-- Intermediate
+- Proficient:
+  - Python (numPy, pandas, matplotlib, scikit-learn)
+  - SQL
+  - R Programming (tidyr, dplyr, ggplot2, caret, rpart, cluster)
   - HTML
 - Novice:
-  - Unix Bash
   - Java 
+  - Bash
   - C/C++
 ### Databases 🗃
-- Expert/Proficient:
+- Proficient:
   - PostgreSQL
   - MySQL
 - Intermediate
   - Transact-SQL (T-SQL)
   - Azure Cosmos DB
-  - DynamoDB
   - MongoDB
   - NoSQL
-- Novice:
-  - Neo4j
-  - Redis
-  
+  - DynamoDB
+
 ### Tools 🧰🛠
-- Microsoft SQL Server Management Studio
+- Microsoft SQL Server Management Studio (SSMS)
   - SQL Server Analysis Services (SSAS)
   - SQL Server Integration Services (SSIS)
 - Microsoft Visual Studio
 - Tableau
-- Jupyter
-- GitHub
-- Microsoft Project
-- Microsoft Azure
 - Power BI
-- Stata
+- Jupyter Notebook
+- RStudio
+- GitHub
+- Microsoft Azure
+- Microsoft Project
 - Microsoft Excel
+- Visual Studio Code (VS Code)
+- Stata
 - AWS
-- Anaconda
-- Unix Bash
