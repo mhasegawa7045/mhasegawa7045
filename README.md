@@ -1,8 +1,12 @@
-## Marie Hasegawa
-### Data Science Programmer with a Background in Big Data Analytics, Machine Learning, and Statistics
+## Marie Hasegawa Portfolio
+### Data Science Major with a Background in Big Data Analytics, Machine Learning, and Statistics
 ![Coding Gif](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif)
 
-**Data Science Magna Cum Laude** (3.88 GPA) graduate of Florida Polytechnic University with 1 year of work-experience. Familiar with cleaning and organizing data for use by technical and non-technical personnel. Advanced understanding of statistical, algebraic, and other analytical techniques. Highly organized, motivated and diligent with significant background in **Big Data Analytics**, **Machine Learning**, **Data Warehouse**, **Time Series and Forecasting**, and **Project Management**.
+**Data Science Magna Cum Laude** (3.88 GPA) graduate of Florida Polytechnic University with 1 year of work-experience, and has collaborated in <ins>3 group projects</ins> and built 6 personal projects. 
+
+Experience with *data processing*, *data pipelines*, *ETL pipelines*, and *data visualizations* for use by technical and non-technical personnel. Advanced understanding of statistical, algebraic, and other analytical techniques. 
+
+Highly organized, motivated, and diligent programmer with a significant background in **Big Data Analytics**, **Machine Learning**, **Statistical Learning**, **Data Warehouse**, **Data Mining & Text Mining**, **Cloud Implementation**, and **Project Management**.
 
 ### Links 👩‍💼
 [My Linkedln Profile](https://www.linkedin.com/in/marie-hasegawa-590456203/)
@@ -10,8 +14,8 @@
 [Handshake Profile](https://app.joinhandshake.com/users/13451441)
 
 ## Work-Experience 💼🏢
-- FedEx Corporation - Data Scientist Internship
-- Real Estate Bot - Data Scientist Capstone Contractor
+- FedEx Corporation - IT Data Science and Analysis Intern: Research and Development
+- Real Estate Bot - Data Science and Analysis Capstone Contractor
 
 ## Projects 📝
 - [Real Estate Chat Bot Capstone Project (EXP Reality)](https://www.realestatemessengerbot.com/14-days-free41529173)
@@ -21,26 +25,40 @@
 - [Course Selection Database System](https://github.com/mhasegawa7045/Course-Selection-Database-System)
 - [IMDB Movie Ratings Bias Data Analysis Project](https://github.com/mhasegawa7045/IMDB_Movie_Ratings_Bias_Project)
 - Humorous Survival Guide for COVID AWS Cloud HTML Website with API commands and servers (Privatized - contains personal information)
-- Orlando-Kissimmee-Sanford, FL (MSA) Times Series and Forecasting Project
+- Orlando-Kissimmee-Sanford, FL (MSA) Times Series and Forecasting Project (In Progress)
 - [Unix Bash Text-Based RPG Personal Project](https://github.com/mhasegawa7045/Cursed_House_Unix_BASH_Text_based_RPG_MHasegawa)
 
 ## Skills 📊
 - Big Data Analytics
-- Data Mining and Text Mining
+  - Data Processing *(cleaning, transforming, wrangling, etc.)*
+  - Data Pipelines 
 - Machine Learning
-  - Supervised Learning 
-  - Unsupervised Learning
+  - Exploratory Data Analysis (EDA)
+  - Regression
+  - Support Vector Machine (SVM)
+  - Clustering
+  - Decision Trees
+  - Random Forests
+  - Ensemble Learning
+  - Bagging
+  - Boosting
+  - Natural Language Processing (NLP)
 - Statistical Learning
-- Time Series and Forecasting
 - Data Warehouse
+  - ETL Pipelines
+  - Data Warehouse Architecture
+- Data Mining and Text Mining
+- Data Pipelines
 - Cloud Implementation
 - Project Management
+- Time Series and Forecasting
+
 
 
 ## Technical Skills
 ### Programming Languages 🖥
 - Expert/Proficient:
-  - R programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, -NumPy, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
+  - R Programming (tidyverse, ggplot2, -pandas, +dplyr, -tidyr, -NumPy, ISLR, rpart.plot, skimr, pROC, caret, ggraph, lubridate)
   - Python 
 - Intermediate
   - HTML
