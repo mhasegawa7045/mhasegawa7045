@@ -1,5 +1,5 @@
 ## Marie Hasegawa Portfolio
-### Data Science Major with a Background in Big Data Analytics, Machine Learning, and Statistics
+### Data Science Major with a Concentration in Big Data Analytics, Machine Learning, and Statistics
 ![Coding Gif](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif)
 
 **Data Science Magna Cum Laude** (3.88 GPA) graduate of Florida Polytechnic University with <ins>1 year of work-experience</ins>, and has collaborated in <ins>3 group projects</ins> and built <ins>6 personal projects</ins>. 
