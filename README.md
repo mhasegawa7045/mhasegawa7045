@@ -4,7 +4,7 @@
 
 **Data Science Magna Cum Laude** (3.88 GPA) graduate of Florida Polytechnic University with <ins>1 year of work-experience</ins>, and has collaborated in <ins>3 group projects</ins> and built <ins>6 personal projects</ins>. 
 
-Experience with *data processing*, *data pipelines*, *ETL pipelines*, and *data visualizations* for use by technical and non-technical personnel. Advanced understanding of statistical, algebraic, and other analytical techniques. 
+Experience with *full stack development*, *data processing*, *data pipelines*, *ETL pipelines*, and *data visualizations* for use by technical and non-technical personnel. Advanced understanding of statistical, algebraic, and other analytical techniques. 
 
 Highly organized, motivated, and diligent with a significant background in **Big Data Analytics**, **Machine Learning**, **Statistical Learning**, **Data Warehouse**, **Data Mining & Text Mining**, **Cloud Implementation**, and **Project Management**.
 
@@ -14,6 +14,7 @@ Highly organized, motivated, and diligent with a significant background in **Big
 [Handshake Profile](https://app.joinhandshake.com/users/13451441)
 
 ## Work-Experience 💼🏢
+- Blue Line Law Firm PLLC - Full Stack Developer Contract
 - FedEx Corporation - IT Data Science and Analysis Intern: Research and Development
 - Real Estate Bot - Data Science and Analysis Capstone Contractor
 
