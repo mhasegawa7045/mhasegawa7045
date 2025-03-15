@@ -32,7 +32,8 @@ Highly organized, motivated, and diligent with a significant background in **Big
 ## Skills 📊
 - Big Data Analytics
   - Data Processing *(cleaning, transforming, wrangling, etc.)*
-  - Data Pipelines 
+  - Data Pipelines
+- Full-Stack Development
 - Machine Learning
   - Exploratory Data Analysis (EDA)
   - Regression
