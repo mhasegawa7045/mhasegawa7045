@@ -19,7 +19,6 @@ Highly organized, motivated, and diligent with a significant background in **Big
 - Real Estate Bot - Data Science and Analysis Capstone Contractor
 
 ## Projects 📝
-- [Real Estate Chat Bot Capstone Project (EXP Reality)](https://www.realestatemessengerbot.com/14-days-free41529173)
 - [Movie's High-Audience Ratings vs High-Profitability: Statistical and Machine Learning Project](https://github.com/mhasegawa7045/Movie-High-Audience-Ratings-vs-High-Profitibility-Statistical-and-Machine-Learning)
 - [Film Story Description Machine Learning: Data Mining, Text Mining, and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Machine_Learning)
 - [Nobel Prize Data Warehouse Project](https://github.com/mhasegawa7045/Nobel-Prize-Data-Warehouse-Project)
