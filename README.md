@@ -19,12 +19,12 @@ Highly organized, motivated, and diligent with a significant background in **Big
 - Real Estate Bot - Data Science and Analysis Capstone Contractor
 
 ## Projects 📝
-- [Movie's High-Audience Ratings vs High-Profitability: Statistical and Machine Learning Project](https://github.com/mhasegawa7045/Movie-High-Audience-Ratings-vs-High-Profitibility-Statistical-and-Machine-Learning)
-- [Film Story Description Machine Learning: NLP, Text Mining, and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Machine_Learning)
 - [Nobel Prize Data Warehouse Project](https://github.com/mhasegawa7045/Nobel-Prize-Data-Warehouse-Project)
+- [Movie's High-Audience Ratings vs High-Profitability: ML and Statistical Learning Analysis](https://github.com/mhasegawa7045/Movie-High-Audience-Ratings-vs-High-Profitibility-Statistical-and-Machine-Learning)
+- [Film NLP and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Machine_Learning)
+- [COVID Survival Guide AWS Website](https://github.com/mhasegawa7045/COVID_Survival_Guide_AWS_Website)
 - [Course Selection Database System](https://github.com/mhasegawa7045/Course-Selection-Database-System)
 - [IMDB Movie Ratings Bias Data Analysis Project](https://github.com/mhasegawa7045/IMDB_Movie_Ratings_Bias_Project)
-- [COVID Survival Guide AWS Website](https://github.com/mhasegawa7045/COVID_Survival_Guide_AWS_Website)
 - [Orlando-Kissimmee-Sanford, FL (MSA) Times Series and Forecasting Project (IN PROGRESS)](https://github.com/mhasegawa7045/Orlando-Kissimmee-Sanford-Florida-Time-Series-Project)
 - [Unix Bash Text-Based RPG Personal Project](https://github.com/mhasegawa7045/Cursed_House_Unix_BASH_Text_based_RPG_MHasegawa)
 
