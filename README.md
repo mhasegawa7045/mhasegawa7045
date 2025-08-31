@@ -20,7 +20,7 @@ Highly organized, motivated, and diligent with a significant background in **Big
 
 ## Projects 📝
 - [Movie's High-Audience Ratings vs High-Profitability: Statistical and Machine Learning Project](https://github.com/mhasegawa7045/Movie-High-Audience-Ratings-vs-High-Profitibility-Statistical-and-Machine-Learning)
-- [Film Story Description Machine Learning: Data Mining, Text Mining, and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Machine_Learning)
+- [Film Story Description Machine Learning: NLP, Text Mining, and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Machine_Learning)
 - [Nobel Prize Data Warehouse Project](https://github.com/mhasegawa7045/Nobel-Prize-Data-Warehouse-Project)
 - [Course Selection Database System](https://github.com/mhasegawa7045/Course-Selection-Database-System)
 - [IMDB Movie Ratings Bias Data Analysis Project](https://github.com/mhasegawa7045/IMDB_Movie_Ratings_Bias_Project)
