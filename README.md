@@ -1,12 +1,11 @@
 ## Marie Hasegawa Portfolio
-### Data Science Major with a Concentration in Big Data Analytics
+### Computer Science Major with a Concentration in Artificial Intelligence
 ![Coding Gif](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif)
 
-**Data Science Magna Cum Laude** (3.88 GPA) graduate of Florida Polytechnic University with <ins>1.5 years of work-experience</ins>, and has collaborated in <ins>2 group projects</ins> and built <ins>6 personal projects</ins>. 
+**Master of Science in Computer Science** (Artificial Intelligence) | Georgia Institute of Technology | Jan 2026 - Present
+**Bachelor of Science in Data Science** (Big Data Analytics) | Florida Polytechnic University | Aug 2018 - May 2022 | Magne Cum Laude (3.88 GPA)
 
-Experience with *full stack development*, *data processing*, *data pipelines*, *ETL pipelines*, and *data visualizations* for use by technical and non-technical personnel. Advanced understanding of statistical, algebraic, and other analytical techniques. 
-
-Highly organized, motivated, and diligent with a significant background in **Big Data Analytics**, **Machine Learning**, **Statistical Learning**, **Data Warehouse**, **Data Mining & Text Mining**, **Cloud Implementation**, and **Project Management**.
+Efficient developer with significant background in **Big Data Analytics**, **Machine Learning**, and **Full Stack Devekopment**. Currently has <ins>1.5 years of work-experience</ins>, and has collaborated in <ins>2 group projects</ins> and built <ins>6 personal projects</ins>. 
 
 ### Links 👩‍💼
 [My Linkedln Profile](https://www.linkedin.com/in/marie-hasegawa-590456203/)
