@@ -29,43 +29,34 @@ Efficient developer with significant background in **Big Data Analytics**, **Mac
 - [Unix Bash Text-Based RPG Personal Project](https://github.com/mhasegawa7045/Cursed_House_Unix_BASH_Text_based_RPG_MHasegawa)
 
 ## Skills 📊
-- Big Data Analytics
-  - Data Processing *(cleaning, transforming, wrangling, etc.)*
-  - Data Pipelines
 - Full-Stack Development
 - Machine Learning
-  - Exploratory Data Analysis (EDA)
+  - Natural Language Processing (NLP)
+  - Ensemble Learning
+  - Random Forests
+  - Bagging
+  - Boosting
   - Regression
   - Support Vector Machine (SVM)
   - Clustering
   - Decision Trees
-  - Random Forests
-  - Ensemble Learning
-  - Bagging
-  - Boosting
-  - Natural Language Processing (NLP)
-- Statistical Learning
-- Data Warehouse
-  - ETL Pipelines
-  - Data Warehouse Architecture
-- Data Mining and Text Mining
-- Cloud Implementation
+- Big Data Analytics
+  - Statistical Learning
+  - Data Pipelines
+  - Cloud Implementation
+  - Data Warehouse and ETL Pipelines
+  - Data Mining and Text Mining
+  - Data Processing *(cleaning, transforming, wrangling, etc.)*
 - Project Management
-- Time Series and Forecasting
-
-
 
 ## Technical Skills
-### Programming Languages 🖥
+### Programming and Querying Languages 🖥
 - Proficient:
   - Python (numPy, pandas, matplotlib, scikit-learn)
-  - SQL
+  - SQL and NoSQL
   - R Programming (tidyr, dplyr, ggplot2, caret, rpart, cluster)
   - HTML
-- Novice:
-  - Java 
-  - Bash
-  - C/C++
+
 ### Databases 🗃
 - Proficient:
   - PostgreSQL
@@ -78,18 +69,18 @@ Efficient developer with significant background in **Big Data Analytics**, **Mac
   - DynamoDB
 
 ### Tools 🧰🛠
+- Oracle Cloud Infrastructure (OCI)
+- Visual Studio Code (VS Code)
+- Microsoft Visual Studio
+- Jupyter Notebook
+- Microsoft Azure
+- Google Cloud Platform (GCP)
 - Microsoft SQL Server Management Studio (SSMS)
   - SQL Server Analysis Services (SSAS)
   - SQL Server Integration Services (SSIS)
-- Microsoft Visual Studio
 - Tableau
 - Power BI
-- Jupyter Notebook
 - RStudio
 - GitHub
-- Microsoft Azure
-- Microsoft Project
 - Microsoft Excel
-- Visual Studio Code (VS Code)
-- Stata
 - AWS
