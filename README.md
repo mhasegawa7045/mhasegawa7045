@@ -52,7 +52,7 @@ Efficient developer with significant background in **Big Data Analytics**, **Mac
 ## Technical Skills
 ### Programming and Querying Languages 🖥
 - Proficient:
-  - Python (numPy, pandas, matplotlib, scikit-learn)
+  - Python (numPy, pandas, PyTorch, scikit-learn, matplotlib)
   - SQL (PostgreSQL, MySQL) and NoSQL (Azure Cosmos DB)
   - R Programming (tidyr, dplyr, ggplot2, caret, rpart, cluster)
   - HTML
