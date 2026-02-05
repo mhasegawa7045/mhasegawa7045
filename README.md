@@ -18,9 +18,9 @@ Efficient developer with significant background in **Big Data Analytics**, **Mac
 - Real Estate Bot - Data Science and Analysis Capstone Contractor
 
 ## Projects 📝
-- [Nobel Prize Data Warehouse Project](https://github.com/mhasegawa7045/Nobel-Prize-Data-Warehouse-Project)
-- [Movie's High-Audience Ratings vs High-Profitability: ML and Statistical Learning Analysis](https://github.com/mhasegawa7045/Movie-High-Audience-Ratings-vs-High-Profitibility-Statistical-and-Machine-Learning)
 - [Film NLP and Sentimental Analysis](https://github.com/mhasegawa7045/Film_Movie_Text_Mining_Sentimental_Analysis_Machine_Learning)
+- [Movie's High-Audience Ratings vs High-Profitability: ML and Statistical Learning Analysis](https://github.com/mhasegawa7045/Movie-High-Audience-Ratings-vs-High-Profitibility-Statistical-and-Machine-Learning)
+- [Nobel Prize Data Warehouse Project](https://github.com/mhasegawa7045/Nobel-Prize-Data-Warehouse-Project)
 - [COVID Survival Guide AWS Website](https://github.com/mhasegawa7045/COVID_Survival_Guide_AWS_Website)
 - [Course Selection Database System](https://github.com/mhasegawa7045/Course-Selection-Database-System)
 - [IMDB Movie Ratings Bias Data Analysis Project](https://github.com/mhasegawa7045/IMDB_Movie_Ratings_Bias_Project)
