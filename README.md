@@ -29,7 +29,7 @@ Efficient developer with significant background in **Big Data Analytics**, **Mac
 
 ## Skills 📊
 - Full-Stack Development
-- Machine Learning
+- Machine Learning and Artificial Intelligence
   - Natural Language Processing (NLP)
   - Deep Learning (DL)
   - Ensemble Learning
