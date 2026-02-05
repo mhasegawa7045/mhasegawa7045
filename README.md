@@ -1,7 +1,6 @@
 ## Marie Hasegawa Portfolio
 ### Computer Science Major with a Concentration in Artificial Intelligence
 ![Coding Gif](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif)
-
 **Master of Science in Computer Science** (Artificial Intelligence) | Georgia Institute of Technology | Jan 2026 - Present
 
 **Bachelor of Science in Data Science** (Big Data Analytics) | Florida Polytechnic University | Aug 2018 - May 2022 | Magne Cum Laude (3.88 GPA)
@@ -53,20 +52,9 @@ Efficient developer with significant background in **Big Data Analytics**, **Mac
 ### Programming and Querying Languages 🖥
 - Proficient:
   - Python (numPy, pandas, matplotlib, scikit-learn)
-  - SQL and NoSQL
+  - SQL (PostgreSQL, MySQL) and NoSQL (Azure Cosmos DB)
   - R Programming (tidyr, dplyr, ggplot2, caret, rpart, cluster)
   - HTML
-
-### Databases 🗃
-- Proficient:
-  - PostgreSQL
-  - MySQL
-- Intermediate
-  - Transact-SQL (T-SQL)
-  - Azure Cosmos DB
-  - MongoDB
-  - NoSQL
-  - DynamoDB
 
 ### Tools 🧰🛠
 - Oracle Cloud Infrastructure (OCI)
