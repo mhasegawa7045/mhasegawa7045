@@ -31,12 +31,13 @@ Efficient developer with significant background in **Big Data Analytics**, **Mac
 - Full-Stack Development
 - Machine Learning
   - Natural Language Processing (NLP)
+  - Deep Learning (DL)
   - Ensemble Learning
   - Random Forests
   - Bagging
   - Boosting
+  - Supervised and Unsupervised Learning
   - Regression
-  - Support Vector Machine (SVM)
   - Clustering
   - Decision Trees
 - Big Data Analytics
